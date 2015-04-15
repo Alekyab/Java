@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+	<user id="123">
+		<username>alekya</username>
+		<password>hadoop123</password>
+		<city>Fremont</city>
+	</user>
+	<user id="234">
+		<username>bachala</username>
+		<password>hadoop</password>
+		<city>Newark</city>
+	</user>
+	<user id="567">
+		<username>reddy</username>
+		<password>hadoop1</password>
+		<city>Seattle</city>
+	</user>
+</person>
