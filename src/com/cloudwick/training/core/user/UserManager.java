@@ -42,7 +42,7 @@ super();
 	/* (non-Javadoc)
 	 * @see com.cloudwick.training.core.user.UserI#getSSN()
 	 */
-	@Override
+	
 	public int getSsn() {
 		// TODO Auto-generated method stub
 		return 24;

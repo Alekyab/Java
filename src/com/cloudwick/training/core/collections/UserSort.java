@@ -21,7 +21,6 @@ public class UserSort implements Comparable<UserSort> {
 		return ssn + " " + name;
 	}
 
-	@Override
 	public int compareTo(UserSort o) {
 		// return this.ssn - o.ssn;
 	//	return o.ssn - this.ssn;

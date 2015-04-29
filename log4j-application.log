@@ -5,3 +5,5 @@
 2015-03-05 19:09:38,718 ERROR Calculator:33 - please provide positive number
 2015-03-05 19:09:57,127 DEBUG Calculator:30 - Calculate method called with -1 + 2
 2015-03-05 19:09:57,139 ERROR Calculator:33 - please provide positive number
+2015-04-28 23:02:25,377 DEBUG Calculator:32 - Calculate method called with -1 + 2
+2015-04-28 23:02:25,380 ERROR Calculator:35 - please provide positive number

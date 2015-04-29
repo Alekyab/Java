@@ -13,7 +13,7 @@ import java.util.Set;
  *
  */
 public class MapManager {
-	static HashMap<Integer, String> hMap = new HashMap<>(20);
+	static HashMap<Integer, String> hMap = new HashMap<Integer, String>(20);
 
 	public static void main(String[] args) {
 
